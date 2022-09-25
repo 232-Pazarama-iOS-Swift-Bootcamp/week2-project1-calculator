@@ -2,7 +2,7 @@
 
 A basic calculator app for iOS. Developed with Swift and UIKit.
 
-## Preview
+## Preview
 
 App screenshot added for preview.
 
